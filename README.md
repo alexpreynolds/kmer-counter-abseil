@@ -4,7 +4,7 @@ The `kfs` program reads in multiline FASTA records, counts canonical kmers using
 
 ## Abseil C++
 
-Compilation of the Abseil C++ kit requires use of [`bazel`](https://www.bazel.build/), *e.g.*, on OS X:
+Integration of the Abseil C++ kit requires use of [`bazel`](https://www.bazel.build/), *e.g.*, on OS X:
 
 ```
 $ brew cask install homebrew/cask-versions/java8
