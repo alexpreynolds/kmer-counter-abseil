@@ -1,6 +1,6 @@
 # kmer-counter-abseil
 
-The `kfs` program reads in multiline FASTA records, counts canonical kmers using the [Abseil C++ API](https://github.com/abseil/abseil-cpp).
+The `kfs` program reads in multiline FASTA records, counts canonical kmers using the [Abseil C++ `container:flat_hash_map`](https://github.com/abseil/abseil-cpp).
 
 ## Abseil C++
 
